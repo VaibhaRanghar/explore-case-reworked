@@ -1,0 +1,75 @@
+{
+  "banner": {
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=1800&q=80",
+    "tagline": "Fleet & Transport",
+    "heading": "Car Rental &<br><em>Taxi Services</em>",
+    "subtitle": "Reliable transport across all Uttarakhand routes"
+  },
+  "fleet": {
+    "tagline": "Our Fleet",
+    "heading": "Well-maintained vehicles<br><em>for every journey</em>",
+    "description": "AC-equipped, regularly serviced vehicles driven by experienced local drivers who know Uttarakhand's mountain roads intimately.",
+    "vehicles": [
+      {
+        "name": "Maruti Ertiga",
+        "type": "MPV · Family Car",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=500&q=80",
+        "specs": ["👥 7 Seater", "❄️ AC", "🧳 Good Luggage", "⛽ Diesel"],
+        "price": "₹12 / km outstation"
+      },
+      {
+        "name": "Maruti Swift / Dzire",
+        "type": "Sedan · Compact",
+        "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=500&q=80",
+        "specs": ["👥 4 Seater", "❄️ AC", "🧳 Compact", "⛽ Petrol"],
+        "price": "₹10 / km outstation"
+      },
+      {
+        "name": "Toyota Innova Crysta",
+        "type": "SUV · Premium",
+        "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=500&q=80",
+        "specs": ["👥 7 Seater", "❄️ AC", "🧳 Large Boot", "⛽ Diesel"],
+        "price": "₹16 / km outstation"
+      },
+      {
+        "name": "Tempo Traveller",
+        "type": "Minibus · Group Travel",
+        "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=500&q=80",
+        "specs": ["👥 12 Seater", "❄️ AC", "🧳 Roof Carrier", "⛽ Diesel"],
+        "price": "₹22 / km outstation"
+      },
+      {
+        "name": "Force Urbania",
+        "type": "Luxury Van · Large Group",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&q=80",
+        "specs": ["👥 17 Seater", "❄️ AC", "🧳 Overhead", "⛽ Diesel"],
+        "price": "₹28 / km outstation"
+      }
+    ]
+  },
+  "routes": {
+    "tagline": "Popular Routes",
+    "heading": "Frequently traveled<br><em>Uttarakhand routes</em>",
+    "items": [
+      { "from": "Dehradun", "to": "Kedarnath", "distance": "~250 km · 8–9 hrs", "price": "Innova from ₹4,500" },
+      { "from": "Dehradun", "to": "Badrinath", "distance": "~320 km · 10 hrs", "price": "Innova from ₹5,500" },
+      { "from": "Dehradun", "to": "Haridwar", "distance": "~55 km · 1.5 hrs", "price": "Swift from ₹900" },
+      { "from": "Dehradun", "to": "Rishikesh", "distance": "~45 km · 1.5 hrs", "price": "Swift from ₹800" },
+      { "from": "Dehradun", "to": "Mussoorie", "distance": "~35 km · 1.2 hrs", "price": "Swift from ₹700" },
+      { "from": "Dehradun", "to": "Auli", "distance": "~280 km · 9 hrs", "price": "Innova from ₹4,800" },
+      { "from": "Dehradun", "to": "Gangotri", "distance": "~240 km · 8 hrs", "price": "Innova from ₹4,200" },
+      { "from": "Dehradun", "to": "Yamunotri", "distance": "~210 km · 7.5 hrs", "price": "Innova from ₹3,900" },
+      { "from": "Dehradun", "to": "Jim Corbett", "distance": "~220 km · 5 hrs", "price": "Ertiga from ₹3,200" }
+    ]
+  },
+  "howItWorks": {
+    "tagline": "How It Works",
+    "heading": "Book your taxi in<br><em>4 simple steps</em>",
+    "steps": [
+      { "number": 1, "title": "Share Your Route", "text": "Tell us pickup, drop, dates, and passenger count via WhatsApp or our contact form." },
+      { "number": 2, "title": "Get a Quote", "text": "We share a transparent, all-inclusive fare with no hidden charges within minutes." },
+      { "number": 3, "title": "Confirm & Pay", "text": "Confirm your booking with a small advance. Pay the rest directly to the driver." },
+      { "number": 4, "title": "Relax & Travel", "text": "Our driver arrives on time. Sit back and enjoy the Himalayan landscapes safely." }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "companyName": "ExploreCase",
+  "tagline": "Uttarakhand's Trusted Travel Specialists",
+  "phone": ["+91 8006461516", "+91 7536061516"],
+  "whatsappNumber": "7536061516",
+  "email": "info@explorecase.in",
+  "address": "Dehradun, Uttarakhand, India",
+  "hours": "Mon–Sun: 8:00 AM – 8:00 PM",
+  "navLinks": [
+    { "label": "Home", "href": "/" },
+    { "label": "About Us", "href": "/about" },
+    { "label": "Char Dham", "href": "/chardham" },
+    { "label": "Tours", "href": "/tours" },
+    { "label": "Taxi", "href": "/taxi" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "socialLinks": [
+    { "label": "IG", "href": "https://www.instagram.com/explore.case/" },
+    { "label": "FB", "href": "https://www.facebook.com/share/1BPn5ghTEF/" },
+    { "label": "𝕏", "href": "https://x.com/explore_case" },
+    { "label": "WA", "href": "https://api.whatsapp.com/send/?phone=7536061516" }
+  ],
+  "footer": {
+    "description": "Dehradun's leading travel agency specializing in Char Dham Yatra, adventure tours, and curated Uttarakhand travel experiences since our founding.",
+    "exploreLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "Tour Packages", "href": "/tours" },
+      { "label": "Char Dham Yatra", "href": "/chardham" },
+      { "label": "Taxi Service", "href": "/taxi" },
+      { "label": "Air Booking", "href": "/contact" }
+    ],
+    "companyLinks": [
+      { "label": "About Us", "href": "/about" },
+      { "label": "Contact", "href": "/contact" },
+      { "label": "Privacy Policy", "href": "#" },
+      { "label": "Terms & Conditions", "href": "#" },
+      { "label": "Refund Policy", "href": "#" }
+    ],
+    "copyright": "© 2026 Explore Case. All rights reserved.",
+    "location": "Dehradun · Uttarakhand · India"
+  },
+  "loaderGreetings": [
+    "Hello",
+    "नमस्ते",
+    "Bonjour",
+    "নমস্কার",
+    "Hola",
+    "નમસ્તે",
+    "こんにちは",
+    "സ്വാഗതം",
+    "Willkommen"
+  ]
+}

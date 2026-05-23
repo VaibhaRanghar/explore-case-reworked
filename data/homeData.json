@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "backgroundImage": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=2000&q=85",
+    "eyebrow": "Uttarakhand's Trusted Travel Specialists",
+    "headingLines": ["Discover the", "Sacred Himalayas", "with Explore Case"],
+    "subtext": "Expertly crafted Char Dham Yatra packages, adventure tours, and spiritual journeys across the divine landscapes of Uttarakhand.",
+    "cta": [
+      { "label": "Explore Packages", "href": "/tours", "style": "primary" },
+      { "label": "Char Dham Yatra", "href": "/chardham", "style": "ghost" }
+    ]
+  },
+  "stats": [
+    { "count": 500, "label": "Tours Completed" },
+    { "count": 5000, "label": "Happy Travelers" },
+    { "count": 15, "label": "Destinations" },
+    { "value": "4.9★", "label": "Average Rating" }
+  ],
+  "marqueeItems": [
+    "Char Dham Yatra",
+    "Kedarnath Helicopter",
+    "Valley of Flowers",
+    "Rishikesh Rafting",
+    "Auli Skiing",
+    "Jim Corbett Safari",
+    "Dehradun Taxi",
+    "Custom Group Tours"
+  ],
+  "whyChooseUs": {
+    "tagline": "Why Choose Us",
+    "heading": "Travel with the<br><em>finest guides</em><br>in Uttarakhand",
+    "description": "Dehradun's leading travel agency — built on years of deep local expertise, trusted relationships, and an unwavering commitment to making every journey seamless and sacred.",
+    "features": [
+      { "icon": "🗺️", "title": "Tailored Packages", "description": "Custom itineraries matching your schedule, group size, and spiritual goals — no cookie-cutter tours." },
+      { "icon": "🏨", "title": "Premium Stays", "description": "Carefully selected hotels along all routes, from budget comfort to authentic Himalayan luxury." },
+      { "icon": "🚁", "title": "Helicopter Yatra", "description": "Kedarnath helicopter bookings for a scenic and time-efficient sacred pilgrimage experience." },
+      { "icon": "💰", "title": "Transparent Pricing", "description": "No hidden costs. Competitive rates with all-inclusive packages that fit every budget honestly." }
+    ]
+  },
+  "charDhamPreview": {
+    "tagline": "Sacred Pilgrimage",
+    "heading": "Char Dham<br><em>Yatra Specialist</em>",
+    "description": "Yamunotri, Gangotri, Kedarnath & Badrinath — the holiest circuit of Hinduism, thoughtfully organized so you can focus entirely on the divine.",
+    "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=900&q=80",
+    "features": [
+      "Custom packages for individuals, families & groups",
+      "Helicopter Yatra to Kedarnath — scenic & time-saving",
+      "Premium hotel stays near all four shrines",
+      "Experienced spiritual guides at every dham"
+    ]
+  },
+  "adventureTours": {
+    "tagline": "Popular Experiences",
+    "heading": "Adventure &<br><em>Uttarakhand Tours</em>",
+    "tours": [
+      {
+        "name": "Valley of Flowers Trek",
+        "image": "https://images.unsplash.com/photo-1682685796852-aa311b46a50b?w=800&q=80",
+        "badge": "Popular",
+        "description": "A UNESCO World Heritage site in Chamoli — endless meadows of alpine blooms at 3,658m. Open July–September."
+      },
+      {
+        "name": "Rishikesh Rafting & Bungee",
+        "image": "https://images.unsplash.com/photo-1521673461164-de300ebcfb17?w=600&q=80",
+        "badge": "Thrilling",
+        "description": ""
+      },
+      {
+        "name": "Chopta Tungnath Trek",
+        "image": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",
+        "badge": "Popular",
+        "description": ""
+      },
+      {
+        "name": "Jim Corbett Safari",
+        "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&q=80",
+        "badge": "Wildlife",
+        "description": ""
+      },
+      {
+        "name": "Auli Skiing & Cable Car",
+        "image": "https://images.unsplash.com/photo-1570641963303-92ce4845ed4c?w=600&q=80",
+        "badge": "Seasonal",
+        "description": ""
+      }
+    ]
+  },
+  "reviews": {
+    "tagline": "Traveler Stories",
+    "heading": "What our guests <em>say</em>",
+    "items": [
+      {
+        "stars": 5,
+        "text": "The Badrinath package was exceptional. Every detail handled professionally — seamless journey from start to finish.",
+        "author": "Aki Bisht",
+        "role": "Verified Traveler"
+      },
+      {
+        "stars": 5,
+        "text": "Char Dham Yatra was smooth and stress-free. Well-maintained cabs, comfortable hotels — perfectly organized.",
+        "author": "Arun Bisht",
+        "role": "Char Dham Pilgrim"
+      },
+      {
+        "stars": 5,
+        "text": "Best travel agency in Dehradun — wonderful experience, great service, and well-organized arrangements!",
+        "author": "Sumit Singh Panwar",
+        "role": "Verified Traveler"
+      },
+      {
+        "stars": 5,
+        "text": "My Char Dham Yatra was unforgettable. I could focus entirely on the spiritual journey — everything else was handled.",
+        "author": "Akshat Sharma",
+        "role": "Char Dham Pilgrim"
+      }
+    ]
+  },
+  "ctaBanner": {
+    "eyebrow": "Ready to travel?",
+    "heading": "Plan your <em>dream journey</em> today"
+  }
+}

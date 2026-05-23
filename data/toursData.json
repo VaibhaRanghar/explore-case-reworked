@@ -1,0 +1,136 @@
+{
+  "banner": {
+    "image": "https://images.unsplash.com/photo-1682685796852-aa311b46a50b?w=1800&q=80",
+    "tagline": "Explore Uttarakhand",
+    "heading": "Tour <em>Packages</em>",
+    "subtitle": "Adventure · Pilgrimage · Wildlife · Family"
+  },
+  "filterTabs": ["All Tours", "Adventure", "Trekking", "Wildlife", "Spiritual", "Family"],
+  "tours": [
+    {
+      "name": "Valley of Flowers Trek",
+      "description": "UNESCO World Heritage Site — endless alpine meadows at 3,658m. Open July–September.",
+      "image": "https://images.unsplash.com/photo-1682685796852-aa311b46a50b?w=600&q=80",
+      "categories": ["trek", "adventure"],
+      "badge": "Popular",
+      "difficulty": "Moderate",
+      "duration": "6D/5N",
+      "elevation": "3,658m",
+      "location": "Chamoli",
+      "price": "₹8,999+"
+    },
+    {
+      "name": "Rishikesh Rafting & Bungee",
+      "description": "Grade III–IV rapids on the Ganga + Asia's highest bungee at 83m.",
+      "image": "https://images.unsplash.com/photo-1521673461164-de300ebcfb17?w=600&q=80",
+      "categories": ["adventure"],
+      "badge": "Thrilling",
+      "difficulty": "Easy–Hard",
+      "duration": "2D/1N",
+      "elevation": "",
+      "elevationIcon": "🌊",
+      "elevationLabel": "Ganga",
+      "location": "Rishikesh",
+      "price": "₹3,499+"
+    },
+    {
+      "name": "Chopta Tungnath Trek",
+      "description": "World's highest Shiva temple at 3,680m — stunning 360° Himalayan panorama.",
+      "image": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",
+      "categories": ["trek", "adventure"],
+      "badge": "Popular",
+      "difficulty": "Easy–Moderate",
+      "duration": "3D/2N",
+      "elevation": "4,090m",
+      "location": "Rudraprayag",
+      "price": "₹4,999+"
+    },
+    {
+      "name": "Jim Corbett Safari",
+      "description": "India's oldest national park — Royal Bengal Tigers, elephants, and rich biodiversity.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&q=80",
+      "categories": ["wildlife", "family"],
+      "badge": "Wildlife",
+      "difficulty": "Easy",
+      "duration": "3D/2N",
+      "elevation": "",
+      "elevationIcon": "🐅",
+      "elevationLabel": "Tigers",
+      "location": "Nainital",
+      "price": "₹6,999+"
+    },
+    {
+      "name": "Auli Skiing & Cable Car",
+      "description": "India's ski capital — world-class slopes and Asia's longest gondola cable car.",
+      "image": "https://images.unsplash.com/photo-1570641963303-92ce4845ed4c?w=600&q=80",
+      "categories": ["adventure"],
+      "badge": "Seasonal",
+      "difficulty": "Moderate",
+      "duration": "4D/3N",
+      "elevation": "",
+      "elevationIcon": "❄️",
+      "elevationLabel": "Dec–Mar",
+      "location": "Chamoli",
+      "price": "₹7,499+"
+    },
+    {
+      "name": "Harshil Valley Tour",
+      "description": "Escape to the hidden apple-orchard valley — riverside walks and a truly peaceful Himalayan retreat.",
+      "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&q=80",
+      "categories": ["family", "trek"],
+      "badge": "Hidden Gem",
+      "difficulty": "Easy",
+      "duration": "4D/3N",
+      "elevation": "",
+      "elevationIcon": "🍎",
+      "elevationLabel": "May–Oct",
+      "location": "Uttarkashi",
+      "price": "₹5,499+"
+    },
+    {
+      "name": "Rishikesh Yoga & Ganga Aarti",
+      "description": "Morning yoga by the Ganga, evening Ganga Aarti, ashram visits, and Himalayan walks.",
+      "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=600&q=80",
+      "categories": ["spiritual", "family"],
+      "badge": "Wellness",
+      "difficulty": "Easy",
+      "duration": "3D/2N",
+      "elevation": "",
+      "elevationIcon": "🧘",
+      "elevationLabel": "Year Round",
+      "location": "Rishikesh",
+      "price": "₹3,999+"
+    },
+    {
+      "name": "Kedarkantha Winter Trek",
+      "description": "A magical snow trek through pine forests to the summit at 3,810m — best 360° Himalayan panorama.",
+      "image": "https://images.unsplash.com/photo-1586348943529-beaae6c28db9?w=600&q=80",
+      "categories": ["trek", "adventure"],
+      "badge": "Winter Trek",
+      "difficulty": "Moderate",
+      "duration": "6D/5N",
+      "elevation": "3,810m",
+      "location": "Uttarkashi",
+      "price": "₹9,499+"
+    },
+    {
+      "name": "Mussoorie & Dhanaulti Family",
+      "description": "Queen of Hills — Kempty Falls, Gun Hill ropeway, Eco Park, and cozy Himalayan cottages.",
+      "image": "https://images.unsplash.com/photo-1455156218388-5e61b526818b?w=600&q=80",
+      "categories": ["family"],
+      "badge": "Family",
+      "difficulty": "Easy",
+      "duration": "3D/2N",
+      "elevation": "",
+      "elevationIcon": "🌿",
+      "elevationLabel": "Year Round",
+      "location": "Mussoorie",
+      "price": "₹4,499+"
+    }
+  ],
+  "customCta": {
+    "tagline": "Can't Find What You Need?",
+    "heading": "We build <em>custom packages</em><br>for every traveler",
+    "description": "Tell us your dates, group size, and dream destinations — we'll craft a personalized Uttarakhand itinerary just for you."
+  }
+}

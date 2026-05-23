@@ -1,0 +1,61 @@
+{
+  "banner": {
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1800&q=80",
+    "tagline": "Get In Touch",
+    "heading": "Plan Your<br><em>Journey</em>",
+    "subtitle": "We respond within 24 hours — usually much sooner"
+  },
+  "serviceOptions": [
+    "Char Dham Yatra Package",
+    "Kedarnath Helicopter Yatra",
+    "Adventure Tour",
+    "Trekking Package",
+    "Wildlife Safari",
+    "Taxi / Car Rental",
+    "Air Ticket Booking",
+    "Custom Package"
+  ],
+  "offices": {
+    "tagline": "Service Areas",
+    "heading": "Where we <em>operate</em>",
+    "items": [
+      {
+        "city": "Dehradun",
+        "type": "Headquarters",
+        "detail": "Our main office — handling all Char Dham packages, taxi bookings, tour planning, and customer support from the heart of Uttarakhand's capital."
+      },
+      {
+        "city": "Rishikesh",
+        "type": "Adventure Hub",
+        "detail": "Coordination point for all river rafting, bungee, camping, and adventure packages operating from the Yoga Capital of the World."
+      },
+      {
+        "city": "Kedarnath Route",
+        "type": "Pilgrimage Support",
+        "detail": "Ground team along the Char Dham Yatra route assisting pilgrims at key checkpoints from Guptkashi to the shrine."
+      }
+    ]
+  },
+  "faq": {
+    "tagline": "FAQ",
+    "heading": "Common <em>questions</em>",
+    "items": [
+      {
+        "question": "When is the best time for Char Dham Yatra?",
+        "answer": "The shrines open in April/May and close in October/November. May–June and September–October are ideal — post-monsoon views are spectacular."
+      },
+      {
+        "question": "How do I book a Kedarnath helicopter?",
+        "answer": "Contact us directly. We handle all bookings, permits, and shuttles from Phata/Sirsi helipad. Advance booking is strongly recommended."
+      },
+      {
+        "question": "Do you offer custom group packages?",
+        "answer": "Yes — groups of all sizes. We customize itineraries, negotiate group hotel rates, and arrange dedicated vehicles and guides."
+      },
+      {
+        "question": "What is your cancellation policy?",
+        "answer": "Full refund for cancellations 15+ days before departure. Partial refund within 7–14 days. We also help reschedule where possible."
+      }
+    ]
+  }
+}

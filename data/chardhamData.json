@@ -1,0 +1,140 @@
+{
+  "banner": {
+    "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=1800&q=80",
+    "tagline": "Sacred Journey",
+    "heading": "Char Dham <em>Yatra</em>",
+    "subtitle": "Yamunotri · Gangotri · Kedarnath · Badrinath"
+  },
+  "intro": {
+    "tagline": "The Holy Circuit",
+    "heading": "India's most sacred<br><em>pilgrimage circuit</em>",
+    "paragraphs": [
+      "The Char Dham Yatra — four sacred shrines in the Garhwal Himalayas — is one of Hinduism's most auspicious pilgrimages, undertaken by lakhs of devotees each year.",
+      "At Explore Case, we've guided hundreds of families and pilgrims through this divine journey. Every package is planned meticulously so you can focus entirely on prayer and the breathtaking Himalayan landscape."
+    ]
+  },
+  "dhams": [
+    {
+      "name": "Yamunotri",
+      "tag": "01 · Yamunotri",
+      "location": "Uttarkashi District",
+      "description": "The source of the sacred Yamuna river, Yamunotri is set at 3,293m in Uttarkashi. Pilgrims trek 6km from Janki Chatti through dense forests and hot water springs to reach the revered temple of Goddess Yamuna.",
+      "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800&q=80",
+      "facts": {
+        "altitude": "3,293 m",
+        "district": "Uttarkashi",
+        "season": "May – Jun, Sept – Oct",
+        "trek": "6 km one way"
+      }
+    },
+    {
+      "name": "Gangotri",
+      "tag": "02 · Gangotri",
+      "location": "Uttarkashi District",
+      "description": "The origin of the sacred Ganga at 3,048m. The 18th-century temple built by Gorkha commander Amar Singh Thapa stands surrounded by towering snow peaks and the thundering Bhagirathi river.",
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=800&q=80",
+      "facts": {
+        "altitude": "3,048 m",
+        "district": "Uttarkashi",
+        "season": "May – Jun, October",
+        "trek": "18 km to Gaumukh"
+      }
+    },
+    {
+      "name": "Kedarnath",
+      "tag": "03 · Kedarnath",
+      "location": "Rudraprayag District",
+      "description": "One of the 12 Jyotirlingas of Lord Shiva at 3,583m in the Garhwal Himalayas. The 8th-century stone temple built by Adi Shankaracharya remains one of India's most visited pilgrimage sites.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+      "facts": {
+        "altitude": "3,583 m",
+        "district": "Rudraprayag",
+        "season": "May – Jun, Sept – Oct",
+        "trek": "16 km / Helicopter"
+      }
+    },
+    {
+      "name": "Badrinath",
+      "tag": "04 · Badrinath",
+      "location": "Chamoli District",
+      "description": "Dedicated to Lord Vishnu at 3,133m along the Alaknanda river with a dramatic backdrop of Neelkanth peak. The final dham on the circuit, the brightly painted temple is one of the 108 Divya Desams.",
+      "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&q=80",
+      "facts": {
+        "altitude": "3,133 m",
+        "district": "Chamoli",
+        "season": "May – Jun, Sept – Nov",
+        "trek": "Road accessible"
+      }
+    }
+  ],
+  "packages": {
+    "tagline": "Yatra Packages",
+    "heading": "Choose your<br><em>perfect package</em>",
+    "items": [
+      {
+        "name": "Do Dham Package",
+        "tag": "Budget Friendly",
+        "description": "Kedarnath & Badrinath — the two most revered shrines. Includes AC cab, accommodation, and guide.",
+        "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=600&q=80",
+        "duration": "7D / 6N",
+        "price": "from ₹12,999",
+        "featured": false
+      },
+      {
+        "name": "Full Char Dham Yatra",
+        "tag": "Complete Circuit",
+        "description": "All four dhams — Yamunotri, Gangotri, Kedarnath & Badrinath. Premium stays and dedicated guide.",
+        "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=600&q=80",
+        "duration": "11D / 10N",
+        "price": "from ₹24,999",
+        "featured": true,
+        "featuredLabel": "Most Popular"
+      },
+      {
+        "name": "Kedarnath Helicopter Yatra",
+        "tag": "Premium",
+        "description": "Fly directly to Kedarnath. Scenic Himalayan views, VIP pooja arrangements, and luxury accommodation.",
+        "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&q=80",
+        "duration": "3D / 2N",
+        "price": "from ₹15,999",
+        "featured": false
+      }
+    ]
+  },
+  "inclusions": {
+    "tagline": "What's Included",
+    "heading": "Everything covered<br><em>for your journey</em>",
+    "items": [
+      {
+        "icon": "🚗",
+        "title": "AC Transportation",
+        "text": "Well-maintained AC vehicles with experienced Himalayan drivers for the entire Char Dham route."
+      },
+      {
+        "icon": "🏨",
+        "title": "Hotel Accommodation",
+        "text": "Carefully selected hotels and dharamshalas near each shrine, from standard to premium."
+      },
+      {
+        "icon": "🙏",
+        "title": "Spiritual Guide",
+        "text": "Knowledgeable guides who explain the history, mythology, and rituals at each dham."
+      },
+      {
+        "icon": "🍽️",
+        "title": "Vegetarian Meals",
+        "text": "Pure sattvic vegetarian meals included in select packages, prepared hygienically en route."
+      },
+      {
+        "icon": "🚁",
+        "title": "Helicopter Booking",
+        "text": "Complete helicopter booking and permit management for Kedarnath Helicopter Yatra."
+      },
+      {
+        "icon": "📋",
+        "title": "All Permits & Passes",
+        "text": "Registration, biometric verification, and all required passes managed by our team."
+      }
+    ]
+  }
+}
