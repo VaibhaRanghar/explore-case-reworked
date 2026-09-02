@@ -22,7 +22,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Explore Case | Uttarakhand Travel & Char Dham Yatra",
+  title: "Musafir Trails | Uttarakhand Travel & Char Dham Yatra",
   description:
     "Expertly crafted Char Dham Yatra packages, adventure tours, and spiritual journeys across the divine landscapes of Uttarakhand. Dehradun's trusted travel specialists.",
 };

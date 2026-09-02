@@ -7,13 +7,17 @@ import siteData from "@/data/siteData.json";
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
+  const [scrollY, setScrollY] = useState(0);
   const [mnavOpen, setMnavOpen] = useState(false);
   const pathname = usePathname();
 
   useEffect(() => {
     const handleScroll = () => {
-      setScrolled(window.scrollY > 60);
+      const y = window.scrollY;
+      setScrollY(y);
+      setScrolled(y > 40);
     };
+    handleScroll();
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
@@ -23,19 +27,51 @@ export default function Navbar() {
     setMnavOpen(false);
   }, [pathname]);
 
-  const isHome = pathname === "/";
+  const isHome = pathname === "/" || pathname === "/home";
   const navClass = isHome ? (scrolled ? "on" : "") : "solid";
+
+  // Calculate smooth scroll progress for homepage logo transition (0 = top, 1 = scrolled)
+  const scrollProgress = isHome ? Math.min(Math.max(scrollY / 80, 0), 1) : 1;
 
   return (
     <>
+      {/* Homepage Standalone Oversized Logo */}
+      {isHome && (
+        <Link
+          href="/"
+          className="standalone-logo-wrapper"
+          style={{
+            opacity: 1 - scrollProgress,
+            transform: `translateY(${-scrollProgress * 45}px) scale(${1 - scrollProgress * 0.12})`,
+            pointerEvents: scrollProgress > 0.8 ? "none" : "auto",
+          }}
+          aria-label="Musafir Trails Home"
+        >
+          <img
+            src="/musafir_logo-02.png"
+            alt="Musafir Trails Logo"
+            className="standalone-logo-img"
+          />
+        </Link>
+      )}
+
       <nav id="nav" className={navClass}>
-        <Link href="/" className="logo-area">
-          <div className="logo-placeholder">
-            {/* Logo image will go here — drop your logo.png into /public/ */}
-          </div>
-          <div className="logo">
-            Explore<span>Case</span>
-          </div>
+        <Link
+          href="/"
+          className="logo-area"
+          style={{
+            opacity: isHome ? scrollProgress : 1,
+            transform: isHome ? `translateY(${(1 - scrollProgress) * 6}px)` : "none",
+            pointerEvents: isHome && scrollProgress < 0.2 ? "none" : "auto",
+            transition: "opacity 0.2s ease, transform 0.2s ease",
+          }}
+          aria-label="Musafir Trails"
+        >
+          <img
+            src="/musafir_logo-04.png"
+            alt="Musafir Trails"
+            className="nav-logo-extended"
+          />
         </Link>
         <ul className="nav-links" id="navlinks">
           {siteData.navLinks.map((link) => (

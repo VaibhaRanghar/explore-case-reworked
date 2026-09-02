@@ -9,12 +9,11 @@ export default function Footer() {
       <div className="footer-top">
         <div>
           <Link href="/" className="flogo">
-            <div className="logo-placeholder" style={{ width: 32, height: 32, borderColor: "rgba(201,168,76,.25)" }}>
-              {/* Logo will go here */}
-            </div>
-            <span className="logo-text">
-              Explore<span>Case</span>
-            </span>
+            <img
+              src="/musafir_logo-04.png"
+              alt="Musafir Trails"
+              style={{ height: 36, width: "auto", objectFit: "contain" }}
+            />
           </Link>
           <p className="fdesc">{footer.description}</p>
           <div className="fsoc-links">

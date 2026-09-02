@@ -2,18 +2,42 @@
   "hero": {
     "backgroundImage": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=2000&q=85",
     "eyebrow": "Uttarakhand's Trusted Travel Specialists",
-    "headingLines": ["Discover the", "Sacred Himalayas", "with Explore Case"],
+    "headingLines": [
+      "Discover the Sacred Himalayas",
+      "with Musafir Trails",
+      ""
+    ],
     "subtext": "Expertly crafted Char Dham Yatra packages, adventure tours, and spiritual journeys across the divine landscapes of Uttarakhand.",
     "cta": [
-      { "label": "Explore Packages", "href": "/tours", "style": "primary" },
-      { "label": "Char Dham Yatra", "href": "/chardham", "style": "ghost" }
+      {
+        "label": "Explore Packages",
+        "href": "/tours",
+        "style": "primary"
+      },
+      {
+        "label": "Char Dham Yatra",
+        "href": "/chardham",
+        "style": "ghost"
+      }
     ]
   },
   "stats": [
-    { "count": 500, "label": "Tours Completed" },
-    { "count": 5000, "label": "Happy Travelers" },
-    { "count": 15, "label": "Destinations" },
-    { "value": "4.9★", "label": "Average Rating" }
+    {
+      "count": 500,
+      "label": "Tours Completed"
+    },
+    {
+      "count": 5000,
+      "label": "Happy Travelers"
+    },
+    {
+      "count": 15,
+      "label": "Destinations"
+    },
+    {
+      "value": "4.9★",
+      "label": "Average Rating"
+    }
   ],
   "marqueeItems": [
     "Char Dham Yatra",
@@ -30,10 +54,26 @@
     "heading": "Travel with the<br><em>finest guides</em><br>in Uttarakhand",
     "description": "Dehradun's leading travel agency — built on years of deep local expertise, trusted relationships, and an unwavering commitment to making every journey seamless and sacred.",
     "features": [
-      { "icon": "🗺️", "title": "Tailored Packages", "description": "Custom itineraries matching your schedule, group size, and spiritual goals — no cookie-cutter tours." },
-      { "icon": "🏨", "title": "Premium Stays", "description": "Carefully selected hotels along all routes, from budget comfort to authentic Himalayan luxury." },
-      { "icon": "🚁", "title": "Helicopter Yatra", "description": "Kedarnath helicopter bookings for a scenic and time-efficient sacred pilgrimage experience." },
-      { "icon": "💰", "title": "Transparent Pricing", "description": "No hidden costs. Competitive rates with all-inclusive packages that fit every budget honestly." }
+      {
+        "icon": "🗺️",
+        "title": "Tailored Packages",
+        "description": "Custom itineraries matching your schedule, group size, and spiritual goals — no cookie-cutter tours."
+      },
+      {
+        "icon": "🏨",
+        "title": "Premium Stays",
+        "description": "Carefully selected hotels along all routes, from budget comfort to authentic Himalayan luxury."
+      },
+      {
+        "icon": "🚁",
+        "title": "Helicopter Yatra",
+        "description": "Kedarnath helicopter bookings for a scenic and time-efficient sacred pilgrimage experience."
+      },
+      {
+        "icon": "💰",
+        "title": "Transparent Pricing",
+        "description": "No hidden costs. Competitive rates with all-inclusive packages that fit every budget honestly."
+      }
     ]
   },
   "charDhamPreview": {

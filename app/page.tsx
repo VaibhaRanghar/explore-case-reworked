@@ -94,8 +94,8 @@ export default function Home() {
           <h1>
             <span className="hl">{hero.headingLines[0]}</span>
             <span className="hl">
-              <em>{hero.headingLines[1].split(" ")[0]}</em>{" "}
-              {hero.headingLines[1].split(" ").slice(1).join(" ")}
+              {/* <em>{hero.headingLines[1].split(" ")[0]}</em>{" "} */}
+              {hero.headingLines[1]}
             </span>
             <span className="hl">{hero.headingLines[2]}</span>
           </h1>
