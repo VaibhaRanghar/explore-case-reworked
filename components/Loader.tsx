@@ -41,16 +41,9 @@ export default function Loader() {
         </div>
       </div>
 
-      {/* ExploreCase at bottom center */}
+      {/* Musafir Trails at bottom center */}
       <div className="loader-logo">
         Musafir<span>Trails</span>
-        {/* Loader logo */}
-      {/* <div className="loader-logo" style={{ animation: "none" }}>
-        <img
-          src="/musafir_logo-02.png"
-          alt="Musafir Trails"
-          style={{ height: 200, width: "auto", objectFit: "contain" }}
-        /> */} 
       </div>
       <div className="loader-bar">
         <div className="loader-fill"></div>

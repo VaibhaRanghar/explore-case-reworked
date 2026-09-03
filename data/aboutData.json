@@ -2,7 +2,7 @@
   "banner": {
     "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1800&q=80",
     "tagline": "Our Story",
-    "heading": "About <em>Explore Case</em>",
+    "heading": "About <em>The Musafir Trails</em>",
     "subtitle": "Dehradun's trusted travel partner"
   },
   "story": {
@@ -11,7 +11,7 @@
     "tagline": "Who We Are",
     "heading": "Born from a<br>love of the <em>mountains</em>",
     "paragraphs": [
-      "Explore Case was founded by passionate Uttarakhand natives who believed every traveler deserves a journey as extraordinary as the destination itself. Rooted in Dehradun, we've grown into one of the most trusted names in Himalayan travel.",
+      "The Musafir Trails was founded by passionate Uttarakhand natives who believed every traveler deserves a journey as extraordinary as the destination itself. Rooted in Dehradun, we've grown into one of the most trusted names in Himalayan travel.",
       "We specialize in Char Dham Yatra, adventure trekking, wildlife safaris, and customized family holidays — bringing deep local knowledge to every package we craft."
     ],
     "blockquote": "We don't just book trips — we create sacred memories that last a lifetime."
@@ -30,7 +30,7 @@
     "tagline": "Our Journey",
     "heading": "Milestones that<br><em>shaped us</em>",
     "items": [
-      { "year": "Founded", "title": "Explore Case established in Dehradun", "text": "Started as a small boutique travel service focused on Char Dham Yatra packages for pilgrims across India." },
+      { "year": "Founded", "title": "The Musafir Trails established in Dehradun", "text": "Started as a small boutique travel service focused on Char Dham Yatra packages for pilgrims across India." },
       { "year": "Growth", "title": "Expanded to adventure & wildlife tours", "text": "Added Rishikesh rafting, Auli skiing, Jim Corbett safaris, and Valley of Flowers treks to our portfolio." },
       { "year": "Scale", "title": "5,000+ happy travelers milestone", "text": "Crossed 5,000 satisfied guests with a 4.9-star average rating across all major review platforms." },
       { "year": "Today", "title": "Full-service travel agency for Uttarakhand", "text": "Now offering helicopter Yatra, air bookings, dedicated taxi fleet, international tours, and fully customized packages." }

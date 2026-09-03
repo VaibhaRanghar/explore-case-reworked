@@ -1,9 +1,9 @@
 {
-  "companyName": "Musafir Trails",
+  "companyName": "The Musafir Trails",
   "tagline": "Uttarakhand's Trusted Travel Specialists",
   "phone": ["+91 8006461516", "+91 7536061516"],
   "whatsappNumber": "7536061516",
-  "email": "info@explorecase.in",
+  "email": "info@themusafirtrails.com",
   "address": "Dehradun, Uttarakhand, India",
   "hours": "Mon–Sun: 8:00 AM – 8:00 PM",
   "navLinks": [
@@ -36,7 +36,7 @@
       { "label": "Terms & Conditions", "href": "#" },
       { "label": "Refund Policy", "href": "#" }
     ],
-    "copyright": "© 2026 Musafir Trails. All rights reserved.",
+    "copyright": "© 2026 The Musafir Trails. All rights reserved.",
     "location": "Dehradun · Uttarakhand · India"
   },
   "loaderGreetings": [

@@ -92,12 +92,13 @@ export default function Home() {
             <span className="etxt">{hero.eyebrow}</span>
           </div>
           <h1>
-            <span className="hl">{hero.headingLines[0]}</span>
-            <span className="hl">
-              {/* <em>{hero.headingLines[1].split(" ")[0]}</em>{" "} */}
-              {hero.headingLines[1]}
-            </span>
-            <span className="hl">{hero.headingLines[2]}</span>
+            {hero.headingLines.map((line, i) => (
+              <span
+                key={i}
+                className="hl"
+                dangerouslySetInnerHTML={{ __html: line }}
+              />
+            ))}
           </h1>
           <p className="hsub">{hero.subtext}</p>
           <div className="hact">

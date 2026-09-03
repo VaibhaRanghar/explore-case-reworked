@@ -22,9 +22,14 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Musafir Trails | Uttarakhand Travel & Char Dham Yatra",
+  title: "The Musafir Trails | Uttarakhand Travel & Char Dham Yatra",
   description:
     "Expertly crafted Char Dham Yatra packages, adventure tours, and spiritual journeys across the divine landscapes of Uttarakhand. Dehradun's trusted travel specialists.",
+  icons: {
+    icon: "/musafir_logo-02.png",
+    shortcut: "/musafir_logo-02.png",
+    apple: "/musafir_logo-02.png",
+  },
 };
 
 export default function RootLayout({
