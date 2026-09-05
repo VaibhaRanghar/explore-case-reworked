@@ -93,31 +93,31 @@
     "tours": [
       {
         "name": "Valley of Flowers Trek",
-        "image": "https://images.unsplash.com/photo-1682685796852-aa311b46a50b?w=800&q=80",
+        "image": "https://images.unsplash.com/photo-1761990386038-31ff9e9bf70e?w=2400&q=90",
         "badge": "Popular",
         "description": "A UNESCO World Heritage site in Chamoli — endless meadows of alpine blooms at 3,658m. Open July–September."
       },
       {
         "name": "Rishikesh Rafting & Bungee",
-        "image": "https://images.unsplash.com/photo-1521673461164-de300ebcfb17?w=600&q=80",
+        "image": "https://images.unsplash.com/photo-1724864814923-548d7fd5f42e?w=2400&q=90",
         "badge": "Thrilling",
         "description": ""
       },
       {
         "name": "Chopta Tungnath Trek",
-        "image": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",
+        "image": "https://images.unsplash.com/photo-1767284478133-033c43deaaa9?w=2400&q=90",
         "badge": "Popular",
         "description": ""
       },
       {
         "name": "Jim Corbett Safari",
-        "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&q=80",
+        "image": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=2400&q=90",
         "badge": "Wildlife",
         "description": ""
       },
       {
         "name": "Auli Skiing & Cable Car",
-        "image": "https://images.unsplash.com/photo-1570641963303-92ce4845ed4c?w=600&q=80",
+        "image": "https://images.unsplash.com/photo-1623727705498-51a6a4154384?w=2400&q=90",
         "badge": "Seasonal",
         "description": ""
       }

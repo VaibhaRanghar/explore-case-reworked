@@ -42,6 +42,7 @@ export default function Navbar() {
           className="standalone-logo-wrapper"
           style={{
             opacity: 1 - scrollProgress,
+            visibility: scrollProgress > 0.95 ? "hidden" : "visible",
             transform: `translateY(${-scrollProgress * 45}px) scale(${1 - scrollProgress * 0.12})`,
             pointerEvents: scrollProgress > 0.8 ? "none" : "auto",
           }}
@@ -61,9 +62,10 @@ export default function Navbar() {
           className="logo-area"
           style={{
             opacity: isHome ? scrollProgress : 1,
+            visibility: isHome && scrollProgress < 0.05 ? "hidden" : "visible",
             transform: isHome ? `translateY(${(1 - scrollProgress) * 6}px)` : "none",
             pointerEvents: isHome && scrollProgress < 0.2 ? "none" : "auto",
-            transition: "opacity 0.2s ease, transform 0.2s ease",
+            transition: "opacity 0.2s ease, transform 0.2s ease, visibility 0.2s ease",
           }}
           aria-label="Musafir Trails"
         >

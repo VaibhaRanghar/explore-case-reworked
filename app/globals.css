@@ -10,8 +10,9 @@
   --cream:#F7F3EC;--warm:#FDFAF5;--char:#0D0D0D;
   --muted:#5A5A50;--lite:#8A8A7A;
 }
-html{scroll-behavior:smooth}
-body{font-family:var(--font-dm-sans),'DM Sans',sans-serif;background:var(--warm);color:var(--char);overflow-x:hidden}
+html{scroll-behavior:smooth;overflow-x:hidden;max-width:100%}
+body{font-family:var(--font-dm-sans),'DM Sans',sans-serif;background:var(--warm);color:var(--char);overflow-x:hidden;max-width:100%;width:100%;position:relative}
+main{overflow-x:hidden;max-width:100%;width:100%}
 
 /* ── CUSTOM CURSOR ── */
 #cur{position:fixed;width:8px;height:8px;background:var(--gold);border-radius:50%;pointer-events:none;z-index:9999;transform:translate(-50%,-50%);transition:width .25s,height .25s,background .25s;mix-blend-mode:difference}
@@ -513,6 +514,7 @@ footer{background:var(--char);color:rgba(255,255,255,.48)}
   .standalone-logo-wrapper{left:1.5rem}
   .standalone-logo-img{width:82px}
   .nav-logo-extended{height:28px}
+  .fl,.fr{transform:translateY(24px)}
   .sbar,.rvgrid,.values-grid,.inc-grid,.pkg-grid,.fleet-grid,.offices-grid,.tl-grid,.route-grid,.how-steps,.footer-top,.faq-grid{grid-template-columns:1fr}
   .tgrid{grid-template-columns:1fr}
   .cd-home-img{min-height:280px}
