@@ -31,10 +31,10 @@
     ],
     "companyLinks": [
       { "label": "About Us", "href": "/about" },
+      { "label": "Important Links", "href": "/important-links" },
       { "label": "Contact", "href": "/contact" },
       { "label": "Privacy Policy", "href": "#" },
-      { "label": "Terms & Conditions", "href": "#" },
-      { "label": "Refund Policy", "href": "#" }
+      { "label": "Terms & Conditions", "href": "#" }
     ],
     "copyright": "© 2026 The Musafir Trails. All rights reserved.",
     "location": "Dehradun · Uttarakhand · India"

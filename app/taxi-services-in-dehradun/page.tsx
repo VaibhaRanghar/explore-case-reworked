@@ -1,7 +1,37 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import PageBanner from "@/components/PageBanner";
 import ScrollReveal from "@/components/ScrollReveal";
 import taxiData from "@/data/taxiData.json";
+
+export const metadata: Metadata = {
+  title: "Taxi Service in Dehradun | Cab Booking & Rental Deals",
+  description:
+    "Reliable taxi service in Dehradun for local & outstation trips, Char Dham Yatra, Jolly Grant Airport transfer, Mussoorie, Rishikesh, and Haridwar. Sedan, Innova Crysta, & Tempo Traveller rentals.",
+  keywords: [
+    "Taxi service in Dehradun",
+    "Dehradun cab booking",
+    "Dehradun to Mussoorie taxi fare",
+    "Dehradun to Rishikesh cab service",
+    "Dehradun to Haridwar taxi rental",
+    "Dehradun Jolly Grant Airport taxi",
+    "Char Dham Yatra cab service Dehradun",
+    "Innova Crysta booking Dehradun",
+    "Tempo Traveller rental Dehradun",
+    "Best cab service in Dehradun",
+    "Outstation taxi Dehradun",
+  ],
+  alternates: {
+    canonical: "/taxi-services-in-dehradun",
+  },
+  openGraph: {
+    title: "Taxi Service in Dehradun | Best Cab Rental Deals - Musafir Trails",
+    description:
+      "Book reliable sedan, Innova Crysta, and Tempo Traveller taxis in Dehradun for Char Dham Yatra, airport transfer, Mussoorie, and Rishikesh.",
+    url: "https://www.themusafirtrails.com/taxi-services-in-dehradun",
+    siteName: "The Musafir Trails",
+  },
+};
 
 export default function TaxiPage() {
   const { banner, fleet, routes, howItWorks } = taxiData;
