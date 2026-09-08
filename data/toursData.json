@@ -1,6 +1,6 @@
 {
   "banner": {
-    "image": "https://images.unsplash.com/photo-1772165151077-883006e56785??w=5000&q=90",
+    "image": "https://images.unsplash.com/photo-1772165151077-883006e56785?auto=format&fit=crop&w=1200&q=75",
     "tagline": "Explore Uttarakhand",
     "heading": "Tour <em>Packages</em>",
     "subtitle": "Adventure · Pilgrimage · Wildlife · Family"
@@ -10,7 +10,7 @@
     {
       "name": "Valley of Flowers Trek",
       "description": "UNESCO World Heritage Site — endless alpine meadows at 3,658m. Open July–September.",
-      "image": "https://images.unsplash.com/photo-1761990386038-31ff9e9bf70e?w=2400&q=90",
+      "image": "https://images.unsplash.com/photo-1761990386038-31ff9e9bf70e?auto=format&fit=crop&w=600&q=75",
       "categories": ["trek", "adventure"],
       "badge": "Popular",
       "difficulty": "Moderate",
@@ -22,7 +22,7 @@
     {
       "name": "Rishikesh Rafting & Bungee",
       "description": "Grade III–IV rapids on the Ganga + Asia's highest bungee at 83m.",
-      "image": "https://images.unsplash.com/photo-1724864814923-548d7fd5f42e?w=2400&q=90",
+      "image": "https://images.unsplash.com/photo-1724864814923-548d7fd5f42e?auto=format&fit=crop&w=600&q=75",
       "categories": ["adventure"],
       "badge": "Thrilling",
       "difficulty": "Easy–Hard",
@@ -36,7 +36,7 @@
     {
       "name": "Chopta Tungnath Trek",
       "description": "World's highest Shiva temple at 3,680m — stunning 360° Himalayan panorama.",
-      "image": "https://images.unsplash.com/photo-1767284478133-033c43deaaa9?w=2400&q=90",
+      "image": "https://images.unsplash.com/photo-1767284478133-033c43deaaa9?auto=format&fit=crop&w=600&q=75",
       "categories": ["trek", "adventure"],
       "badge": "Popular",
       "difficulty": "Easy–Moderate",
@@ -48,7 +48,7 @@
     {
       "name": "Jim Corbett Safari",
       "description": "India's oldest national park — Royal Bengal Tigers, elephants, and rich biodiversity.",
-      "image": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=2400&q=90",
+      "image": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=600&q=75",
       "categories": ["wildlife", "family"],
       "badge": "Wildlife",
       "difficulty": "Easy",
@@ -62,7 +62,7 @@
     {
       "name": "Auli Skiing & Cable Car",
       "description": "India's ski capital — world-class slopes and Asia's longest gondola cable car.",
-      "image": "https://images.unsplash.com/photo-1623727705498-51a6a4154384?w=2400&q=90",
+      "image": "https://images.unsplash.com/photo-1623727705498-51a6a4154384?auto=format&fit=crop&w=600&q=75",
       "categories": ["adventure"],
       "badge": "Seasonal",
       "difficulty": "Moderate",
@@ -76,7 +76,7 @@
     {
       "name": "Harshil Valley Tour",
       "description": "Escape to the hidden apple-orchard valley — riverside walks and a truly peaceful Himalayan retreat.",
-      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=2400&q=90",
+      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=600&q=75",
       "categories": ["family", "trek"],
       "badge": "Hidden Gem",
       "difficulty": "Easy",
@@ -90,7 +90,7 @@
     {
       "name": "Rishikesh Yoga & Ganga Aarti",
       "description": "Morning yoga by the Ganga, evening Ganga Aarti, ashram visits, and Himalayan walks.",
-      "image": "https://images.unsplash.com/photo-1713340546638-5e30e2b7b1fe?w=2400&q=90",
+      "image": "https://images.unsplash.com/photo-1713340546638-5e30e2b7b1fe?auto=format&fit=crop&w=600&q=75",
       "categories": ["spiritual", "family"],
       "badge": "Wellness",
       "difficulty": "Easy",
@@ -104,7 +104,7 @@
     {
       "name": "Kedarkantha Winter Trek",
       "description": "A magical snow trek through pine forests to the summit at 3,810m — best 360° Himalayan panorama.",
-      "image": "https://images.unsplash.com/photo-1642498709557-b1bd711dd68b?w=2400&q=90",
+      "image": "https://images.unsplash.com/photo-1642498709557-b1bd711dd68b?auto=format&fit=crop&w=600&q=75",
       "categories": ["trek", "adventure"],
       "badge": "Winter Trek",
       "difficulty": "Moderate",
@@ -116,7 +116,7 @@
     {
       "name": "Mussoorie & Dhanaulti Family",
       "description": "Queen of Hills — Kempty Falls, Gun Hill ropeway, Eco Park, and cozy Himalayan cottages.",
-      "image": "https://images.unsplash.com/photo-1700219799548-b5f284069140?w=2400&q=90",
+      "image": "https://images.unsplash.com/photo-1700219799548-b5f284069140?auto=format&fit=crop&w=600&q=75",
       "categories": ["family"],
       "badge": "Family",
       "difficulty": "Easy",

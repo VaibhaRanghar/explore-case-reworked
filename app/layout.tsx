@@ -7,6 +7,7 @@ import CustomCursor from "@/components/CustomCursor";
 import Loader from "@/components/Loader";
 import WhatsAppFab from "@/components/WhatsAppFab";
 import BackToTop from "@/components/BackToTop";
+import JsonLd from "@/components/JsonLd";
 
 const dmSans = DM_Sans({
   subsets: ["latin"],
@@ -86,6 +87,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${dmSans.variable} ${playfair.variable}`}>
+        <JsonLd />
         <Loader />
         <CustomCursor />
         <Navbar />

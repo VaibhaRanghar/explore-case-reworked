@@ -1,5 +1,6 @@
 import Link from "next/link";
 import siteData from "@/data/siteData.json";
+import EmailObfuscator from "@/components/EmailObfuscator";
 
 export default function Footer() {
   const { footer, socialLinks, phone, email, address } = siteData;
@@ -55,7 +56,7 @@ export default function Footer() {
           {phone.map((p) => (
             <p key={p} className="fcp">📞 {p}</p>
           ))}
-          <p className="fcp">✉️ {email}</p>
+          <p className="fcp">✉️ <EmailObfuscator email={email} /></p>
           <p className="fcp" style={{ marginTop: ".5rem" }}>📍 {address}</p>
         </div>
       </div>

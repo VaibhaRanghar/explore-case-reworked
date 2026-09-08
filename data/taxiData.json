@@ -1,6 +1,6 @@
 {
   "banner": {
-    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=1800&q=80",
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1200&q=75",
     "tagline": "Fleet & Transport",
     "heading": "Car Rental &<br><em>Taxi Services</em>",
     "subtitle": "Reliable transport across all Uttarakhand routes"
@@ -13,35 +13,35 @@
       {
         "name": "Maruti Ertiga",
         "type": "MPV · Family Car",
-        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=500&q=80",
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=500&q=75",
         "specs": ["👥 7 Seater", "❄️ AC", "🧳 Good Luggage", "⛽ Diesel"],
         "price": "₹12 / km outstation"
       },
       {
         "name": "Maruti Swift / Dzire",
         "type": "Sedan · Compact",
-        "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=500&q=80",
+        "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=500&q=75",
         "specs": ["👥 4 Seater", "❄️ AC", "🧳 Compact", "⛽ Petrol"],
         "price": "₹10 / km outstation"
       },
       {
         "name": "Toyota Innova Crysta",
         "type": "SUV · Premium",
-        "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=500&q=80",
+        "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=500&q=75",
         "specs": ["👥 7 Seater", "❄️ AC", "🧳 Large Boot", "⛽ Diesel"],
         "price": "₹16 / km outstation"
       },
       {
         "name": "Tempo Traveller",
         "type": "Minibus · Group Travel",
-        "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=500&q=80",
+        "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=500&q=75",
         "specs": ["👥 12 Seater", "❄️ AC", "🧳 Roof Carrier", "⛽ Diesel"],
         "price": "₹22 / km outstation"
       },
       {
         "name": "Force Urbania",
         "type": "Luxury Van · Large Group",
-        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&q=80",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=500&q=75",
         "specs": ["👥 17 Seater", "❄️ AC", "🧳 Overhead", "⛽ Diesel"],
         "price": "₹28 / km outstation"
       }

@@ -4,6 +4,7 @@ import PageBanner from "@/components/PageBanner";
 import ScrollReveal from "@/components/ScrollReveal";
 import contactData from "@/data/contactData.json";
 import siteData from "@/data/siteData.json";
+import EmailObfuscator from "@/components/EmailObfuscator";
 
 export default function ContactClient() {
   const { banner, serviceOptions, offices, faq } = contactData;
@@ -60,7 +61,9 @@ export default function ContactClient() {
               <div className="cii-icon">✉️</div>
               <div>
                 <div className="cii-lbl">Email</div>
-                <div className="cii-val">{email}</div>
+                <div className="cii-val">
+                  <EmailObfuscator email={email} />
+                </div>
               </div>
             </div>
             <div className="cii">

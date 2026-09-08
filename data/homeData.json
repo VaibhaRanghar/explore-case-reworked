@@ -1,6 +1,6 @@
 {
   "hero": {
-    "backgroundImage": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=2000&q=85",
+    "backgroundImage": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1200&q=75",
     "eyebrow": "Uttarakhand's Trusted Travel Specialists",
     "headingLines": [
       "Discover the Sacred Himalayas",
@@ -79,7 +79,7 @@
     "tagline": "Sacred Pilgrimage",
     "heading": "Char Dham<br><em>Yatra Specialist</em>",
     "description": "Yamunotri, Gangotri, Kedarnath & Badrinath — the holiest circuit of Hinduism, thoughtfully organized so you can focus entirely on the divine.",
-    "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=800&q=75",
     "features": [
       "Custom packages for individuals, families & groups",
       "Helicopter Yatra to Kedarnath — scenic & time-saving",
@@ -93,31 +93,31 @@
     "tours": [
       {
         "name": "Valley of Flowers Trek",
-        "image": "https://images.unsplash.com/photo-1761990386038-31ff9e9bf70e?w=2400&q=90",
+        "image": "https://images.unsplash.com/photo-1761990386038-31ff9e9bf70e?auto=format&fit=crop&w=600&q=75",
         "badge": "Popular",
         "description": "A UNESCO World Heritage site in Chamoli — endless meadows of alpine blooms at 3,658m. Open July–September."
       },
       {
         "name": "Rishikesh Rafting & Bungee",
-        "image": "https://images.unsplash.com/photo-1724864814923-548d7fd5f42e?w=2400&q=90",
+        "image": "https://images.unsplash.com/photo-1724864814923-548d7fd5f42e?auto=format&fit=crop&w=600&q=75",
         "badge": "Thrilling",
         "description": ""
       },
       {
         "name": "Chopta Tungnath Trek",
-        "image": "https://images.unsplash.com/photo-1767284478133-033c43deaaa9?w=2400&q=90",
+        "image": "https://images.unsplash.com/photo-1767284478133-033c43deaaa9?auto=format&fit=crop&w=600&q=75",
         "badge": "Popular",
         "description": ""
       },
       {
         "name": "Jim Corbett Safari",
-        "image": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=2400&q=90",
+        "image": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=600&q=75",
         "badge": "Wildlife",
         "description": ""
       },
       {
         "name": "Auli Skiing & Cable Car",
-        "image": "https://images.unsplash.com/photo-1623727705498-51a6a4154384?w=2400&q=90",
+        "image": "https://images.unsplash.com/photo-1623727705498-51a6a4154384?auto=format&fit=crop&w=600&q=75",
         "badge": "Seasonal",
         "description": ""
       }

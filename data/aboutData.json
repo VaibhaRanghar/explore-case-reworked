@@ -1,12 +1,12 @@
 {
   "banner": {
-    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1800&q=80",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=75",
     "tagline": "Our Story",
     "heading": "About <em>The Musafir Trails</em>",
     "subtitle": "Dehradun's trusted travel partner"
   },
   "story": {
-    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=900&q=80",
+    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=800&q=75",
     "imageTag": "Est. Dehradun, Uttarakhand",
     "tagline": "Who We Are",
     "heading": "Born from a<br>love of the <em>mountains</em>",
