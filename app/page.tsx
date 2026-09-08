@@ -207,7 +207,7 @@ export default function Home() {
               </li>
             ))}
           </ul>
-          <Link href="/chardham" className="btn-g" style={{ width: "fit-content" }}>
+          <Link href="/chardham-tour-packages" className="btn-g" style={{ width: "fit-content" }}>
             <span>Explore Char Dham</span>
             <span>→</span>
           </Link>
@@ -236,7 +236,7 @@ export default function Home() {
               dangerouslySetInnerHTML={{ __html: adventureTours.heading }}
             />
           </ScrollReveal>
-          <Link href="/tours" className="btn-g">
+          <Link href="/tours-in-uttrakhand" className="btn-g">
             <span>All Packages</span>
             <span>→</span>
           </Link>
@@ -251,7 +251,7 @@ export default function Home() {
                   <span className="tbdg">{tour.badge}</span>
                   <h3 className="tnm">{tour.name}</h3>
                   {tour.description && <p className="tdsc">{tour.description}</p>}
-                  <Link href="/tours" className="tlnk">
+                  <Link href="/tours-in-uttrakhand" className="tlnk">
                     Enquire Now <span className="tlnk-arr">→</span>
                   </Link>
                 </div>

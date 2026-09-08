@@ -9,9 +9,9 @@
   "navLinks": [
     { "label": "Home", "href": "/" },
     { "label": "About Us", "href": "/about" },
-    { "label": "Char Dham", "href": "/chardham" },
-    { "label": "Tours", "href": "/tours" },
-    { "label": "Taxi", "href": "/taxi" },
+    { "label": "Char Dham", "href": "/chardham-tour-packages" },
+    { "label": "Tours", "href": "/tours-in-uttrakhand" },
+    { "label": "Taxi", "href": "/taxi-services-in-dehradun" },
     { "label": "Contact", "href": "/contact" }
   ],
   "socialLinks": [
@@ -24,9 +24,9 @@
     "description": "Dehradun's leading travel agency specializing in Char Dham Yatra, adventure tours, and curated Uttarakhand travel experiences since our founding.",
     "exploreLinks": [
       { "label": "Home", "href": "/" },
-      { "label": "Tour Packages", "href": "/tours" },
-      { "label": "Char Dham Yatra", "href": "/chardham" },
-      { "label": "Taxi Service", "href": "/taxi" },
+      { "label": "Tour Packages", "href": "/tours-in-uttrakhand" },
+      { "label": "Char Dham Yatra", "href": "/chardham-tour-packages" },
+      { "label": "Taxi Service", "href": "/taxi-services-in-dehradun" },
       { "label": "Air Booking", "href": "/contact" }
     ],
     "companyLinks": [

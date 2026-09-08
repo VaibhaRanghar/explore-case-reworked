@@ -10,12 +10,12 @@
     "cta": [
       {
         "label": "Explore Packages",
-        "href": "/tours",
+        "href": "/tours-in-uttrakhand",
         "style": "primary"
       },
       {
         "label": "Char Dham Yatra",
-        "href": "/chardham",
+        "href": "/chardham-tour-packages",
         "style": "ghost"
       }
     ]
