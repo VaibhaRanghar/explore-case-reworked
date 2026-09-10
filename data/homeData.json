@@ -6,15 +6,15 @@
       "Discover the Sacred Himalayas",
       "with <em>Musafir Trails</em>"
     ],
-    "subtext": "Expertly crafted Char Dham Yatra packages, adventure tours, and spiritual journeys across the divine landscapes of Uttarakhand.",
+    "subtext": "At Musafir Trails, we craft seamless Char Dham Yatra packages, Himalayan adventure treks, and luxury cab services to help travelers discover the majestic beauty and spiritual depth of the Sacred Himalayas.",
     "cta": [
       {
-        "label": "Explore Packages",
+        "label": "Discover Uttarakhand Tour Packages",
         "href": "/tours-in-uttrakhand",
         "style": "primary"
       },
       {
-        "label": "Char Dham Yatra",
+        "label": "Book Char Dham Yatra 2026",
         "href": "/chardham-tour-packages",
         "style": "ghost"
       }
@@ -49,78 +49,94 @@
     "Custom Group Tours"
   ],
   "whyChooseUs": {
-    "tagline": "Why Choose Us",
-    "heading": "Travel with the<br><em>finest guides</em><br>in Uttarakhand",
-    "description": "Dehradun's leading travel agency — built on years of deep local expertise, trusted relationships, and an unwavering commitment to making every journey seamless and sacred.",
+    "tagline": "Why Choose Musafir Trails",
+    "heading": "Discover the Sacred Himalayas with the<br><em>finest local guides</em>",
+    "description": "As Dehradun's premier travel agency, Musafir Trails combines deep Himalayan roots with reliable hospitality. Whether you are undertaking a sacred pilgrimage across the Garhwal range or seeking thrilling mountain adventure, our team ensures every detail is handled with care.",
+    "ctaLabel": "Read The Musafir Trails Story",
     "features": [
       {
         "icon": "🗺️",
-        "title": "Tailored Packages",
-        "description": "Custom itineraries matching your schedule, group size, and spiritual goals — no cookie-cutter tours."
+        "title": "Tailored Itineraries",
+        "description": "Customized tour plans tailored to your exact group size, budget, and travel dates so you can discover the Sacred Himalayas without stress."
       },
       {
         "icon": "🏨",
-        "title": "Premium Stays",
-        "description": "Carefully selected hotels along all routes, from budget comfort to authentic Himalayan luxury."
+        "title": "Verified Hotels",
+        "description": "Carefully selected accommodations near Yamunotri, Gangotri, Kedarnath, and Badrinath with hot water, clean rooms, and scenic views."
       },
       {
         "icon": "🚁",
-        "title": "Helicopter Yatra",
-        "description": "Kedarnath helicopter bookings for a scenic and time-efficient sacred pilgrimage experience."
+        "title": "Kedarnath Helicopter",
+        "description": "Direct VIP helicopter ticket arrangements and priority shuttle services to Kedarnath Dham for a comfortable pilgrimage."
       },
       {
         "icon": "💰",
         "title": "Transparent Pricing",
-        "description": "No hidden costs. Competitive rates with all-inclusive packages that fit every budget honestly."
+        "description": "All-inclusive tour rates with zero hidden charges — upfront pricing covering transport, lodging, driver allowances, and permits."
       }
     ]
   },
   "charDhamPreview": {
     "tagline": "Sacred Pilgrimage",
     "heading": "Char Dham<br><em>Yatra Specialist</em>",
-    "description": "Yamunotri, Gangotri, Kedarnath & Badrinath — the holiest circuit of Hinduism, thoughtfully organized so you can focus entirely on the divine.",
+    "description": "Yamunotri, Gangotri, Kedarnath, and Badrinath form the sacred core of pilgrimage in the Himalayas. Musafir Trails organizes end-to-end Yatra packages including AC cabs, hotel bookings, VIP temple visits, and Kedarnath helicopter shuttles.",
+    "ctaLabel": "Explore Complete Char Dham Packages",
     "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=800&q=75",
     "features": [
-      "Custom packages for individuals, families & groups",
-      "Helicopter Yatra to Kedarnath — scenic & time-saving",
-      "Premium hotel stays near all four shrines",
-      "Experienced spiritual guides at every dham"
+      "Custom packages for families, senior citizens & private groups",
+      "Kedarnath Helicopter Yatra tickets with priority shuttle access",
+      "Deluxe and luxury stays close to all four holy shrines",
+      "Experienced spiritual tour leaders and local mountain drivers"
     ]
   },
   "adventureTours": {
     "tagline": "Popular Experiences",
     "heading": "Adventure &<br><em>Uttarakhand Tours</em>",
+    "ctaLabel": "View All Himalayan Packages",
     "tours": [
       {
         "name": "Valley of Flowers Trek",
         "image": "https://images.unsplash.com/photo-1761990386038-31ff9e9bf70e?auto=format&fit=crop&w=600&q=75",
         "badge": "Popular",
-        "description": "A UNESCO World Heritage site in Chamoli — endless meadows of alpine blooms at 3,658m. Open July–September."
+        "description": "A UNESCO World Heritage site in Chamoli — endless alpine meadows filled with hundreds of rare Himalayan flower species at 3,658m.",
+        "linkText": "Explore Valley of Flowers Package"
       },
       {
         "name": "Rishikesh Rafting & Bungee",
         "image": "https://images.unsplash.com/photo-1724864814923-548d7fd5f42e?auto=format&fit=crop&w=600&q=75",
         "badge": "Thrilling",
-        "description": ""
+        "description": "Conquer Grade III & IV white water rapids on the Ganga river and experience India's highest 83m cliff bungee jump in Rishikesh.",
+        "linkText": "Explore Rishikesh Rafting Package"
       },
       {
         "name": "Chopta Tungnath Trek",
         "image": "https://images.unsplash.com/photo-1767284478133-033c43deaaa9?auto=format&fit=crop&w=600&q=75",
         "badge": "Popular",
-        "description": ""
+        "description": "Trek through lush rhododendron forests to Tungnath — the highest Shiva temple in the world at 3,680m with panoramic summit views.",
+        "linkText": "Explore Chopta Tungnath Package"
       },
       {
         "name": "Jim Corbett Safari",
         "image": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?auto=format&fit=crop&w=600&q=75",
         "badge": "Wildlife",
-        "description": ""
+        "description": "Embark on an exciting Jeep safari inside India's legendary national park to spot Royal Bengal Tigers, wild Asian elephants, and rare flora.",
+        "linkText": "Explore Corbett Safari Package"
       },
       {
         "name": "Auli Skiing & Cable Car",
         "image": "https://images.unsplash.com/photo-1623727705498-51a6a4154384?auto=format&fit=crop&w=600&q=75",
         "badge": "Seasonal",
-        "description": ""
+        "description": "Experience India's premier skiing destination in winter and ride one of Asia's longest gondola cable cars with views of Nanda Devi.",
+        "linkText": "Explore Auli Skiing Package"
       }
+    ]
+  },
+  "travelGuide": {
+    "tagline": "Himalayan Destination Guide",
+    "heading": "Discover Uttarakhand with <em>Musafir Trails</em>",
+    "paragraphs": [
+      "Uttarakhand, revered as Devbhoomi (Land of the Gods), offers an unmatched blend of divine spirituality, high-altitude trekking trails, and pristine hill stations. At Musafir Trails, we help thousands of travelers discover the Sacred Himalayas each year with customized itineraries, reliable outstation taxi rentals, and complete tour management.",
+      "From the sacred gates of Haridwar and Rishikesh to the snow-covered peaks of Kedarnath, Badrinath, Yamunotri, and Gangotri, our local team in Dehradun ensures your travel experience is safe, comfortable, and memorable. Whether you need an Innova Crysta cab for family travel, a helicopter Yatra ticket, or a guided trek to the Valley of Flowers, Musafir Trails is your trusted companion across Uttarakhand."
     ]
   },
   "reviews": {
@@ -129,32 +145,34 @@
     "items": [
       {
         "stars": 5,
-        "text": "The Badrinath package was exceptional. Every detail handled professionally — seamless journey from start to finish.",
+        "text": "The Badrinath package with Musafir Trails was exceptional. Every detail was handled professionally — seamless journey from start to finish.",
         "author": "Aki Bisht",
         "role": "Verified Traveler"
       },
       {
         "stars": 5,
-        "text": "Char Dham Yatra was smooth and stress-free. Well-maintained cabs, comfortable hotels — perfectly organized.",
+        "text": "Char Dham Yatra was smooth and stress-free. Well-maintained cabs, comfortable hotels near the shrines — perfectly organized.",
         "author": "Arun Bisht",
         "role": "Char Dham Pilgrim"
       },
       {
         "stars": 5,
-        "text": "Best travel agency in Dehradun — wonderful experience, great service, and well-organized arrangements!",
+        "text": "Best travel agency in Dehradun — wonderful experience, transparent pricing, and excellent local driver guides!",
         "author": "Sumit Singh Panwar",
         "role": "Verified Traveler"
       },
       {
         "stars": 5,
-        "text": "My Char Dham Yatra was unforgettable. I could focus entirely on the spiritual journey — everything else was handled.",
+        "text": "My Char Dham Yatra with Musafir Trails was unforgettable. I could focus entirely on the spiritual journey in the Himalayas.",
         "author": "Akshat Sharma",
         "role": "Char Dham Pilgrim"
       }
     ]
   },
   "ctaBanner": {
-    "eyebrow": "Ready to travel?",
-    "heading": "Plan your <em>dream journey</em> today"
+    "eyebrow": "Ready to discover the Sacred Himalayas?",
+    "heading": "Plan your <em>dream journey</em> with Musafir Trails",
+    "ctaPrimary": "Reserve Your Himalayan Package",
+    "ctaSecondary": "Connect With Us On WhatsApp"
   }
 }

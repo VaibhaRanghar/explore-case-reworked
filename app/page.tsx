@@ -73,7 +73,7 @@ export default function Home() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const { hero, stats, marqueeItems, whyChooseUs, charDhamPreview, adventureTours, reviews, ctaBanner } = homeData;
+  const { hero, stats, marqueeItems, whyChooseUs, charDhamPreview, adventureTours, travelGuide, reviews, ctaBanner } = homeData;
 
   return (
     <main>
@@ -160,7 +160,7 @@ export default function Home() {
             <p className="sp">{whyChooseUs.description}</p>
             <div style={{ marginTop: "2.2rem" }}>
               <Link href="/about" className="btn-o">
-                Our Story
+                {whyChooseUs.ctaLabel || "Read The Musafir Trails Story"}
               </Link>
             </div>
           </ScrollReveal>
@@ -182,7 +182,7 @@ export default function Home() {
       <section className="cd-home">
         <div className="cd-home-img">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={charDhamPreview.image} alt="Char Dham" />
+          <img src={charDhamPreview.image} alt="Char Dham Yatra in Sacred Himalayas" />
           <div className="cd-home-gradient"></div>
         </div>
         <ScrollReveal className="cd-home-content fr">
@@ -208,7 +208,7 @@ export default function Home() {
             ))}
           </ul>
           <Link href="/chardham-tour-packages" className="btn-g" style={{ width: "fit-content" }}>
-            <span>Explore Char Dham</span>
+            <span>{charDhamPreview.ctaLabel || "Explore Complete Char Dham Packages"}</span>
             <span>→</span>
           </Link>
         </ScrollReveal>
@@ -237,7 +237,7 @@ export default function Home() {
             />
           </ScrollReveal>
           <Link href="/tours-in-uttrakhand" className="btn-g">
-            <span>All Packages</span>
+            <span>{adventureTours.ctaLabel || "View All Himalayan Packages"}</span>
             <span>→</span>
           </Link>
         </div>
@@ -252,7 +252,7 @@ export default function Home() {
                   <h3 className="tnm">{tour.name}</h3>
                   {tour.description && <p className="tdsc">{tour.description}</p>}
                   <Link href="/tours-in-uttrakhand" className="tlnk">
-                    Enquire Now <span className="tlnk-arr">→</span>
+                    {tour.linkText || `Inquire About ${tour.name}`} <span className="tlnk-arr">→</span>
                   </Link>
                 </div>
               </div>
@@ -260,6 +260,30 @@ export default function Home() {
           </div>
         </ScrollReveal>
       </section>
+
+      {/* ═══ DESTINATION GUIDE SECTION ═══ */}
+      {travelGuide && (
+        <section style={{ background: "var(--warm)", borderTop: "1px solid rgba(201,168,76,.15)", padding: "6rem 4rem" }}>
+          <div style={{ maxWidth: "900px", margin: "0 auto", textAlign: "center" }}>
+            <ScrollReveal>
+              <div className="stag" style={{ justifyContent: "center" }}>
+                <span className="stagline"></span>
+                <span className="stagtxt">{travelGuide.tagline}</span>
+              </div>
+              <h2
+                className="sh"
+                style={{ textAlign: "center", marginBottom: "1.8rem" }}
+                dangerouslySetInnerHTML={{ __html: travelGuide.heading }}
+              />
+              {travelGuide.paragraphs.map((p, i) => (
+                <p key={i} className="sp" style={{ maxWidth: "800px", margin: i > 0 ? "1.2rem auto 0" : "0 auto", textAlign: "center" }}>
+                  {p}
+                </p>
+              ))}
+            </ScrollReveal>
+          </div>
+        </section>
+      )}
 
       {/* ═══ REVIEWS ═══ */}
       <section style={{ background: "var(--forest)", padding: "7rem 4rem" }}>
@@ -308,7 +332,7 @@ export default function Home() {
               marginRight: "1rem",
             }}
           >
-            <span>Book Now</span>
+            <span>{ctaBanner.ctaPrimary || "Reserve Your Himalayan Package"}</span>
           </Link>
           <a
             href={`https://api.whatsapp.com/send/?phone=7536061516&text=Hello!`}
@@ -316,7 +340,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className="btn-o"
           >
-            <span>WhatsApp Us</span>
+            <span>{ctaBanner.ctaSecondary || "Connect With Us On WhatsApp"}</span>
           </a>
         </div>
       </section>
