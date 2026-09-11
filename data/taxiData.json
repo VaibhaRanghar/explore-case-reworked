@@ -32,7 +32,7 @@
           "🧳 Compact",
           "⛽ Petrol"
         ],
-        "price": "₹10 / km outstation"
+        "price": "₹15 / km outstation"
       },
       {
         "name": "Toyota Innova Crysta",
@@ -45,7 +45,7 @@
           "🧳 Large Boot",
           "⛽ Diesel"
         ],
-        "price": "₹16 / km outstation"
+        "price": "₹21 / km outstation"
       },
       {
         "name": "Tempo Traveller",
@@ -58,7 +58,7 @@
           "🧳 Roof Carrier",
           "⛽ Diesel"
         ],
-        "price": "₹22 / km outstation"
+        "price": "₹27 / km outstation"
       },
       {
         "name": "Force Urbania",
@@ -71,7 +71,7 @@
           "🧳 Overhead",
           "⛽ Diesel"
         ],
-        "price": "₹28 / km outstation"
+        "price": "₹33 / km outstation"
       }
     ]
   },
