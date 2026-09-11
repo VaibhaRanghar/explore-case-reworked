@@ -61,7 +61,12 @@ export default function TaxiPage() {
               <div className="fcar">
                 <div className="fcar-img-wrap">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img className="fcar-img" src={car.image} alt={car.name} />
+                  <img
+                    className="fcar-img"
+                    src={car.image}
+                    alt={car.name}
+                    style={{ objectPosition: (car as { objectPosition?: string }).objectPosition || "center" }}
+                  />
                 </div>
                 <div className="fcar-body">
                   <h3 className="fcar-name">{car.name}</h3>
